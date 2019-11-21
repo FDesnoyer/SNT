@@ -7,3 +7,5 @@ def f1():
     global b
     b=12
 
+f1()
+
