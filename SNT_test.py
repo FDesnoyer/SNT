@@ -1,6 +1,3 @@
-a=None
-b=None
-
 def f1():
     global a
     a='Bonjour'
