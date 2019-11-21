@@ -1,8 +1,8 @@
 ##def f1():
 ##    global a
-    a='Bonjour'
+a='Bonjour'
 ##    global b
-    b=12
+b=12
 
 ##f1()
 
