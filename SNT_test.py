@@ -1,8 +1,8 @@
-def f1():
-    global a
+##def f1():
+##    global a
     a='Bonjour'
-    global b
+##    global b
     b=12
 
-f1()
+##f1()
 
